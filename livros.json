@@ -1,0 +1,148 @@
+[
+    {
+        "id": "1",
+        "nome": "A cabana",
+        "imagem":"http://localhost:8000/imagens/aCabana.png",
+        "categoria":"drama",
+        "descricao":"Missy, a filha mais nova, foi raptada e, de acordo com as provas encontradas numa cabana abandonada, brutalmente assassinada. Quatro anos mais tarde, Mack, mergulhado numa depressão da qual nunca recuperou, recebe um bilhete, aparentemente escrito por Deus, convidando-o a voltar à malograda cabana.",
+        "autor":"William Paul Young ",
+        "link":"https://www.amazon.com.br/Cabana-William-P-Young/dp/8599296361"
+    },
+    {
+        "id": "2",
+        "nome": "O timbre",
+        "imagem":"http://localhost:8000/imagens/oTimbre.png",
+        "categoria":"ficção",
+        "descricao":"A vida de Citra e Rowan, dois adolescentes de dezesseis anos, muda por completo quando se tornam aprendizes do ceifador Faraday — ao final do treinamento, só um deles será escolhido, e o outro, a sua primeira vítima.",
+        "autor":"Neal Shusterman",
+         "link":"https://www.amazon.com.br/s?k=o+timbre&i=stripbooks&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CK7SMLQMAX4J&sprefix=o+timbre%2Cstripbooks%2C264&ref=nb_sb_noss_1"
+    },
+    {
+        "id": "3",
+        "nome": "A nuvem",
+        "imagem":"http://localhost:8000/imagens/aNuvem.png",
+        "categoria":"ficção",
+        "descricao":"Em um mundo perfeito em que a humanidade venceu a morte, tudo é regulado pela incorruptível Nimbo-Cúmulo, uma evolução da nuvem de dados. Mas a perfeição não se aplica aos ceifadores, os humanos responsáveis por controlar o crescimento populacional.",
+        "autor":"Neal Shusterman",
+         "link":"https://www.amazon.com.br/s?k=a+nuvem+livro&adgrpid=120793537420&hvadid=593182338889&hvdev=c&hvlocphy=9197471&hvnetw=g&hvqmt=e&hvrand=12170866045756168051&hvtargid=kwd-418285973250&hydadcr=14425_13408549&tag=hydrbrgk-20&ref=pd_sl_2mrz5xo6wz_e"
+    },
+    {
+        "id": "4",
+        "nome": "IT - A coisa",
+        "imagem":"http://localhost:8000/imagens/itAcoisa.png",
+        "categoria":"terror",
+        "descricao":"Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas estranhas. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas.",
+        "autor":"Stephen King",
+         "link":"https://www.amazon.com.br/s?k=it+a+coisa+livro&i=stripbooks&adgrpid=80993694643&hvadid=595792387170&hvdev=c&hvlocphy=9197471&hvnetw=g&hvqmt=e&hvrand=3798674041145949946&hvtargid=kwd-358364421563&hydadcr=22487_13353320&tag=hydrbrgk-20&ref=pd_sl_9ba5b65rya_e"
+
+    },
+    {
+        "id": "5",
+        "nome": "O ceifador",
+        "imagem":"http://localhost:8000/imagens/o ceifador.png",
+        "categoria":"ficção",
+        "descricao":"A vida de Citra e Rowan, dois adolescentes de dezesseis anos, muda por completo quando se tornam aprendizes do ceifador Faraday — ao final do treinamento, só um deles será escolhido, e o outro, a sua primeira vítima.",
+        "autor":"Neal Shusterman",
+         "link":"https://www.amazon.com.br/s?k=o+ceifador+livro&adgrpid=128824823515&hvadid=595859521173&hvdev=c&hvlocphy=9197471&hvnetw=g&hvqmt=e&hvrand=8254674890048499466&hvtargid=kwd-916921625185&hydadcr=15017_13546653&tag=hydrbrgk-20&ref=pd_sl_9irghdkia5_e"
+    },
+    {
+        "id": "6",
+        "nome": "É assim que acaba",
+        "imagem":"http://localhost:8000/imagens/é assim que acaba.png",
+        "categoria":"romance",
+        "descricao":"",
+        "autor":"Collen Hoover",
+         "link":""
+    },
+    {
+        "id": "7",
+        "nome": "O iluminado",
+        "imagem":"http://localhost:8000/imagens/OIluminado.png",
+        "categoria":"terror",
+        "descricao":"“O Iluminado” é um romance de terror escrito por Stephen King. Publicado originalmente em 1977, o livro conta a história de Jack Torrance, um escritor e ex-professor alcoólatra que aceita um emprego como zelador durante o inverno no isolado Hotel Overlook, nas Montanhas Rochosas do Colorado.",
+        "autor":"Stephen King",
+         "link":"https://www.amazon.com.br/s?k=o+iluminado+livro&adgrpid=129384421431&hvadid=595827496299&hvdev=c&hvlocphy=9197471&hvnetw=g&hvqmt=e&hvrand=4610403142458311619&hvtargid=kwd-311239887728&hydadcr=17115_13445938&tag=hydrbrgk-20&ref=pd_sl_7n7boo64im_e"
+    },
+    {
+        "id": "8",
+        "nome": "1984",
+        "imagem":"http://localhost:8000/imagens/1984.png",
+        "categoria":"ficção",
+        "descricao":"A história dessa obra ocorre em um país fictício chamado Oceânia. 1984 mostra uma futura realidade distópica ocorrida no ano de 1984. Nessa realidade, a Inglaterra é comandada por um regime totalitarista em que todos são vigiados pelo Grande Irmão. Winston Smith, protagonista da narrativa, questiona o poder vigente.",
+        "autor":"George Orwell",
+         "link":"https://www.amazon.com.br/1984-George-Orwell/dp/8535914846"
+
+    },
+    {
+        "id": "9",
+        "nome": "A seleção",
+        "imagem":"http://localhost:8000/imagens/ASelecao.png",
+        "categoria":"romance",
+        "descricao":"Para trinta e cinco garotas, a Seleção é a chance de uma vida. É a oportunidade de ser alçada a um mundo de vestidos deslumbrantes e joias valiosas. De morar em um palácio, conquistar o coração do belo príncipe Maxon e um dia ser a rainha. America Singer, no entanto, estar entre as Selecionadas é um pesadelo.",
+        "autor":"Kiera Cass",
+         "link":"https://www.amazon.com.br/sele%C3%A7%C3%A3o-Kiera-Cass/dp/8565765016"
+    },
+    {
+        "id": "10",
+        "nome": "A elite",
+        "imagem":"http://localhost:8000/imagens/AElite.png",
+        "categoria":"romance",
+        "descricao":"A Elite é o segundo livro da série A Seleção, da autora Kiera Cass, e conta a história de America, que se sente confusa e dividida ao se aproximar da coroa e do príncipe Maxon",
+        "autor":"Kiera Cass",
+         "link":"https://www.amazon.com.br/elite-Kiera-Cass/dp/8565765733"
+    },
+    {
+        "id": "11",
+        "nome": "A escolha",
+        "imagem":"http://localhost:8000/imagens/AEscolha.png",
+        "categoria":"romance",
+        "descricao":"Muitas garotas sonham em ser princesas, mas este não é o caso de America Singer. Ela topa se inscrever na Seleção só para agradar a mãe, certa de que não será sorteada para participar da competição em que o príncipe escolherá sua futura esposa. Mas é claro que depois disso sua vida nunca mais será a mesma…",
+        "autor":"Kiera Cass",
+         "link":"https://www.amazon.com.br/escolha-Kiera-Cass/dp/8565765377"
+    },
+    {
+        "id": "12",
+        "nome": "A herdeira",
+        "imagem":"http://localhost:8000/imagens/AHerdeira.png",
+        "categoria":"romance",
+        "descricao":"Vinte anos atrás, America Singer participou da Seleção e conquistou o coração do príncipe Maxon. Agora chegou a vez da princesa Eadlyn, filha do casal. Prestes a conhecer os trinta e cinco pretendentes que irão disputar sua mão numa nova Seleção, ela não tem esperanças de viver um conto de fadas como o de seus pais...",
+        "autor":"Kiera Cass",
+         "link":"https://www.amazon.com.br/herdeira-Kiera-Cass/dp/8565765687"
+    },
+    {
+        "id": "13",
+        "nome": "A coroa",
+        "imagem":"http://localhost:8000/imagens/ACoroa.png",
+        "categoria":"romance",
+        "descricao":"A Coroa é o volume final da saga A Seleção, que apaixonou milhares de leitores por todo o mundo! Em A Herdeira, o universo de A Seleção entrou numa nova era. Vinte anos se passaram desde que America Singer e o príncipe Maxon se apaixonaram, e a filha do casal é a primeira a passar pela sua própria seleção.",
+        "autor":"Kiera Cass",
+         "link":"https://www.amazon.com.br/Coroa-Kiera-Cass/dp/8555340047"
+    },
+    {
+        "id": "14",
+        "nome": "Estilhaça-me",
+        "imagem":"http://localhost:8000/imagens/estilhacame.png",
+        "categoria":"ficção",
+        "descricao":"Com apenas um toque, Juliette Ferrars é capaz de fazer um homem adulto se ajoelhar de dor e implorar por misericórdia. Um único toque de Juliette pode matar. Ninguém sabe por que a garota tem um poder tão impressionante, o qual ela acredita ser uma maldição, um fardo que uma pessoa sozinha seria incapaz de carregar.",
+        "autor":"Tahereh Mafi",
+         "link":"https://www.amazon.com.br/Estilha%C3%A7a-Me-Tahereh-Mafi/dp/8550303011"
+    },
+    {
+        "id": "15",
+        "nome": "Incendeia-me",
+        "imagem":"http://localhost:8000/imagens/incendeiame.png",
+        "categoria":"ficção",
+        "descricao":"Juliette se encontra em uma posição difícil, onde todos aqueles de quem ela se importa podem estar em perigo ou até mesmo mortos. Para se vingar do Restabelecimento e do homem que quase a matou, ela terá que unir forças com quem menos esperava ?",
+        "autor":"Tahereh Mafi",
+         "link":"https://www.amazon.com.br/s?k=incendeia-me+livro&adgrpid=121551466949&hvadid=595792714056&hvdev=c&hvlocphy=9197471&hvnetw=g&hvqmt=e&hvrand=11602890962824120784&hvtargid=kwd-339079413550&hydadcr=24579_13566904&tag=hydrbrgk-20&ref=pd_sl_5who9oy5o0_e"
+    },
+    {
+        "id": "16",
+        "nome": "liberta-me",
+        "imagem":"http://localhost:8000/imagens/libertame.png",
+        "categoria":"ficção",
+        "descricao":"Abandonada à própria sorte, impossibilitada de tocar qualquer ser humano, Juliette vai procurar entender os movimentos de seu coração, a maneira como seus sentimentos se confundem e até onde ela pode realmente ir para ter o controle de sua própria vida.",
+        "autor":"Tahereh Mafi",
+         "link":"https://www.amazon.com.br/Liberta-me-Tahereh-Mafi/dp/8581632351"
+    }
+]
