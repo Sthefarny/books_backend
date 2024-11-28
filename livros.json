@@ -48,7 +48,7 @@
     {
         "id": "6",
         "nome": "É assim que acaba",
-        "imagem":"http://localhost:8000/imagens/é assim que acaba.png",
+        "imagem":"http://localhost:8000/imagens/assimqueacaba.png",
         "categoria":"romance",
         "descricao":"",
         "autor":"Collen Hoover",
@@ -144,5 +144,124 @@
         "descricao":"Abandonada à própria sorte, impossibilitada de tocar qualquer ser humano, Juliette vai procurar entender os movimentos de seu coração, a maneira como seus sentimentos se confundem e até onde ela pode realmente ir para ter o controle de sua própria vida.",
         "autor":"Tahereh Mafi",
          "link":"https://www.amazon.com.br/Liberta-me-Tahereh-Mafi/dp/8581632351"
+    },
+    {
+        "id": "17",
+        "nome": "After",
+        "imagem":"http://localhost:8000/imagens/after.png",
+        "categoria":"drama",
+        "descricao":"After segue a história de autodescoberta e despertar  de Tessa Young, uma estudante de 18 anos, que sai de casa onde vive com a mãe, uma mulher autoritária e preconceituosa, para iniciar os seus estudos na Universidade Central de Washington.",
+        "autor":"Anna Tood",
+         "link":"https://www.amazon.com.br/s?k=o+corvo+edgar+allan+poe&adgrpid=127271223340&hvadid=595815709603&hvdev=c&hvlocphy=1001541&hvnetw=g&hvqmt=e&hvrand=16121594635930028478&hvtargid=kwd-419107659338&hydadcr=5732_13215219&tag=hydrbrgk-20&ref=pd_sl_5k5j2mltdx_e"
+    },
+    {
+        "id": "18",
+        "nome": "O corvo",
+        "imagem":"http://localhost:8000/imagens/alanpoe.png",
+        "categoria":"terror",
+        "descricao":"Deixou poema ,roance com temas de mistério e terror",
+        "autor":"Edgar allan Poe",
+         "link":"https://www.amazon.com.br/s?k=o+corvo+edgar+allan+poe&adgrpid=127271223340&hvadid=595815709603&hvdev=c&hvlocphy=1001541&hvnetw=g&hvqmt=e&hvrand=16121594635930028478&hvtargid=kwd-419107659338&hydadcr=5732_13215219&tag=hydrbrgk-20&ref=pd_sl_5k5j2mltdx_e"
+    },
+    {
+        "id": "19",
+        "nome": "O duque que me amava",
+        "imagem":"http://localhost:8000/imagens/duqueeu.png",
+        "categoria":"romance",
+        "descricao":"O duque de Gloucester estava em busca de uma esposa e não teve dúvidas que a encontrou quando seus olhos caíram sobre aquele anjo que o abrigou durante a tempestade. Mas será que o amor dele seria o suficiente para fazer uma mulher tão machucada entregar-se novamente de corpo e alma?",
+        "autor":"Julia Quinn",
+         "link":"https://www.amazon.com.br/duque-amava-Fam%C3%ADlia-Capman-Livro-ebook/dp/B0CT4VGZ9S#:~:text=O%20duque%20de%20Gloucester%20estava,novamente%20de%20corpo%20e%20alma%3F"
+    },
+    {
+        "id": "20",
+        "nome": "Guerra dos tronos",
+        "imagem":"http://localhost:8000/imagens/guerra_dos_tronos.png",
+        "categoria":"drama",
+        "descricao":"Longe de casa e com a família dividida, Eddard se vê cada vez mais enredado nas intrigas mortais de Porto Real, sem saber que perigos ainda maiores espreitam a distância.",
+        "autor":"George R.R Martin",
+         "link":"https://www.amazon.com.br/Guerra-dos-Tronos-Cr%C3%B4nicas-Gelo/dp/8556510787"
+    },
+    {
+        "id": "21",
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "imagem":"http://localhost:8000/imagens/harrypotter01.png",
+        "categoria":"ficção",
+        "descricao":"Descobre sua verdadeira história e seu destino: ser um aprendiz de feiticeiro até o dia em que terá que enfrentar a pior força do mal, o homem que assassinou seus pais. O menino de olhos verde, magricela e desengonçado, tão habituado à rejeição, descobre, também, que é um herói no universo dos magos.",
+        "autor":"J.K.Rowling",
+         "link":"https://www.travessa.com.br/harry-potter-e-a-pedra-filosofal/artigo/570ec4b2-4774-41f4-b84c-a981bb4d392e#:~:text=Descobre%20sua%20verdadeira%20hist%C3%B3ria%20e,her%C3%B3i%20no%20universo%20dos%20magos."
+    },
+    {
+        "id": "22",
+        "nome": "Harry Potter e a Camera Secreta",
+        "imagem":"http://localhost:8000/imagens/harrypotter02.png",
+        "categoria":"ficção",
+        "descricao":"O livro se envolve em torno da lenda de uma câmara secreta localizada na Escola de Magia e Bruxaria de Hogwarts, na qual abriga um monstro que matará a todos os bruxos que não provém de famílias mágicas.",
+        "autor":"J.K.Rowling",
+         "link":"https://www.amazon.com.br/Harry-Potter-C%C3%A2mara-Secreta-Rowling/dp/8532530796"
+    },
+    {
+        "id": "23",
+        "nome": "A sutil arte de ligar o foda-se",
+        "imagem":"http://localhost:8000/imagens/ligarfds.png",
+        "categoria":"auto-ajuda",
+        "descricao":"Coaching, autoajuda, desenvolvimento pessoal, mentalização positiva - sem querer desprezar o valor de nada disso, a grande verdade é que às vezes nos sentimos quase sufocados diante da pressão infinita por parecermos otimistas o tempo todo. ",
+        "autor":"Mark Manson",
+         "link":"https://www.amazon.com.br/Sutil-Arte-Ligar-Se/dp/855100249X"
+    },
+    {
+        "id": "24",
+        "nome": "O vilarejo",
+        "imagem":"http://localhost:8000/imagens/ovilarejo.png",
+        "categoria":"drama",
+        "descricao":"Em 1589, o padre e demonologista Peter Binsfeld fez a ligação de cada um dos pecados capitais a um demônio, supostamente responsável por invocar o mal nas pessoas. É a partir daí que Raphael Montes cria sete histórias situadas em um vilarejo isolado, apresentando a lenta degradação dos moradores do lugar, e pouco a pouco o próprio vilarejo vai sendo dizimado, maculado pela neve e pela fome.",
+        "autor":"Raphael Montes",
+         "link":"https://www.amazon.com.br/vilarejo-Raphael-Montes/dp/8581053041"
+    },
+    {
+        "id": "25",
+        "nome": "O pequeno príncipe",
+        "imagem":"http://localhost:8000/imagens/pequenoprincipe.png",
+        "categoria":"romance",
+        "descricao":"O pequeno príncipe é um clássico da literatura infantil que narra a amizade entre um menino e um piloto de avião. O principezinho vem do asteroide B 612, e encontra o piloto no deserto do Saara. A obra fala de amor, amizade e sobre a sabedoria infantil.",
+        "autor":"Antoine de Saint-Exupéry",
+         "link":"https://www.amazon.com.br/Pequeno-Pr%C3%ADncipe-Edi%C3%A7%C3%A3o-Luxo/dp/8581303072"
+    },
+    {
+        "id": "26",
+        "nome": "U perfeito cavalheiro",
+        "imagem":"http://localhost:8000/imagens/perfeitocavalheiro.png",
+        "categoria":"romance",
+        "descricao":"Sophie sempre quis ir a um evento da sociedade londrina. Mas esse parece um sonho impossível. Apesar de ser filha de um conde, ela é fruto de uma relação ilegítima e foi relegada ao papel de criada pela madrasta assim que o pai morreu",
+        "autor":"Julia Quinn",
+         "link":"https://www.amazon.com.br/Um-perfeito-cavalheiro-Julia-Quinn/dp/8580412382"
+    },
+    {
+        "id": "27",
+        "nome": "O poder do hábito",
+        "imagem":"http://localhost:8000/imagens/poderhabito.png",
+        "categoria":"auto-ajuda",
+        "descricao":"Charles Duhigg, repórter investigativo do New York Times, mostra que a chave para o sucesso é entender como os hábitos funcionam - e como podemos transformá-los. Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida.",
+        "autor":"Charles Duhigg",
+         "link":"https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119"
+    },
+    {
+        "id": "28",
+        "nome": "Um de nós está mentindo",
+        "imagem":"http://localhost:8000/imagens/umdenostamentindo.png",
+        "categoria":"drama",
+        "descricao":"Cinco alunos entram em detenção na escola e apenas quatro saem com vida. Todos são suspeitos e cada um tem algo a esconder. Até onde você iria para proteger o seu segredo? Esta é a história de  Um de nós está mentindo , livro que deu inicio a duologia de sucesso Um de nós, e teve enredo adaptado para uma série de TV eletrizante na Netflix. ",
+        "autor":"Karen M.McManus",
+         "link":"https://www.amazon.com.br/n%C3%B3s-est%C3%A1-mentindo-Karen-McManus/dp/8501112526"
+    },
+    {
+        "id": "29",
+        "nome": "Verety",
+        "imagem":"http://localhost:8000/imagens/verety.png",
+        "categoria":"terror",
+        "descricao":"conta a história de uma escritora contratada para terminar uma série de livros após a misteriosa morte da autora original, Verity Crawford. Ao investigar os manuscritos de Verity, ela descobre segredos perturbadores sobre a vida da autora.",
+        "autor":"Collen Hoover",
+         "link":"https://www.amazon.com.br/Verity-Colleen-Hoover/dp/8501117846"
     }
+
+    
 ]
